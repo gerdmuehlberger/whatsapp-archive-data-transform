@@ -1,7 +1,7 @@
 from transform import read_source_dataframe ,transform_data
+import nltk
+import tensorflow
 import requests
-
-from mistralai.client import MistralClient
 import os
 
 #https://console.mistral.ai/

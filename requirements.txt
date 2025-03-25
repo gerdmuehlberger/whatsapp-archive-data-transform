@@ -1,4 +1,6 @@
 mistralai,
+nltk,
+tensorflow,
 transformers,
 datasets,
 torch,
